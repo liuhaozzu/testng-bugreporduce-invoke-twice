@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" configfailurepolicy="continue">
+	<listeners>
+		<listener class-name="com.testng.bugreproduce.MyTestNGListener" />
+	</listeners>
+
+	<test name="Reproduce bug">
+		<classes>
+			<class name="com.testng.bugreproduce.InvokeTwiceTest"></class>
+		</classes>
+	</test>
+</suite>
