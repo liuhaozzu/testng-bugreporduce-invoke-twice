@@ -17,7 +17,7 @@ InvokeTwiceTest.helloTest()[pri:0, instance:com.testng.bugreproduce.InvokeTwiceT
 org.testng.TestRunner@20e2cbe0from onFinish
 org.testng.TestRunner@20e2cbe0from onFinish
 
-\=============================================== 
+\===============================================  
 Suite
 Total tests run: 1, Failures: 0, Skips: 0 
 \===============================================
