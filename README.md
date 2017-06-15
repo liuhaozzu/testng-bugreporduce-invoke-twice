@@ -19,6 +19,6 @@ org.testng.TestRunner@20e2cbe0from onFinish
 
 \===============================================  
 Suite
-Total tests run: 1, Failures: 0, Skips: 0 
+Total tests run: 1, Failures: 0, Skips: 0  
 \===============================================
 
